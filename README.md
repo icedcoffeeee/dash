@@ -2,12 +2,14 @@
 
 A life orginization app. Your life at a DASH.
 
+<img src="./static/screenshot.png" alt="screenshot">
+
 ### Features
 
 All planned in far future:
 
 - [ ] Main dashboard - All below in one view
-- [ ] Calendar
+- [x] Calendar
     - [ ] Persistent database
 - [ ] Projects?
 - [ ] Finances
